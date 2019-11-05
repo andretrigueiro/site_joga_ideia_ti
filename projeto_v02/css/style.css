@@ -1,0 +1,6 @@
+/*      Arquivo base de CSS     */
+
+.brand img {
+    max-width: 200px;
+    max-height: 125px;
+}
